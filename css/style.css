@@ -58,7 +58,7 @@ img:hover {
   
 }
 .med{
-  display:block;
+  display:inline-block;
   position: static;
   
 }

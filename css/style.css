@@ -62,5 +62,5 @@ img:hover {
 }
 .large{
   width: 60%;
-  overflow: auto;
+  overflow: visible;
 }

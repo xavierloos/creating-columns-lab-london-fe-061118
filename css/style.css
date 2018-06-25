@@ -58,8 +58,8 @@ img:hover {
   
 }
 .med{
-  display: block;
-  position: static;
+  display:inline;
+  position: right
   
 }
 .large{

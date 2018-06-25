@@ -48,7 +48,7 @@ img:hover {
 
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 .column{
-  width: 50%;
+  position: relative
   
   
 }
@@ -59,8 +59,10 @@ img:hover {
   
 }
 .med{
-  
-  position: stiky;
+  position: absolute;
+    bottom: 8px;
+    right: 16px;
+    font-size: 18px;
   
 }
 .large{

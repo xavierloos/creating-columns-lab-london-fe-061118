@@ -60,9 +60,10 @@ img:hover {
 }
 .med{
   position: absolute;
-    bottom: 8px;
-    right: 16px;
-    font-size: 18px;
+  display: inline-block;
+  bottom: 8px;
+  right: 16px;
+  font-size: 18px;
   
 }
 .large{

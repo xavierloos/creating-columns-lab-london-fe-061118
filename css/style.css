@@ -60,7 +60,7 @@ img:hover {
 }
 .med{
   float: right;
-  display: inline;
+  display: block;
   
 }
 .large{

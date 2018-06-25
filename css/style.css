@@ -59,7 +59,7 @@ img:hover {
 }
 .med{
   float: right;
-  display: inline-block;
+  display: inline;
   position: absolute;
   
 }

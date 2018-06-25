@@ -60,7 +60,7 @@ img:hover {
 .med{
   float: right;
   display: inline-block;
-  position: relative;
+  position: absolute;
   
 }
 .large{

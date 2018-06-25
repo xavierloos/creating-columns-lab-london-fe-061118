@@ -59,7 +59,7 @@ img:hover {
 }
 .med{
   display: block;
-  position: absolute;
+  position: static;
   
 }
 .large{

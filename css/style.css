@@ -58,7 +58,7 @@ img:hover {
   
 }
 .med{
-  display: inline-block;
+  float: right
   
 }
 .large{

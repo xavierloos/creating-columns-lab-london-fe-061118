@@ -56,7 +56,7 @@ img:hover {
   width: 150px;
   height: 200px;
   float: left;
-  display: block;
+  display: inline-block;
 }
 .med{
   
